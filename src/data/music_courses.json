@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Guitar Fundamental",
+            "slug": "guitar-fundamentals",
+            "description": "Learn the basic fundamental of playing guitar with our comprehensive beginner's course",
+            "price": 99.99,
+            "instructor": "John Doe",
+            "isFeatured": true,
+            "image":"/Course/piano.jpg"
+        },
+
+        {
+            "id": 2,
+            "title": "Guitar Fundamental",
+            "slug": "guitar-fundamentals",
+            "description": "Learn the basic fundamental of playing guitar with our comprehensive beginner's course",
+            "price": 99.99,
+            "instructor": "John Doe",
+            "isFeatured": true,
+            "image":"/Course/guitar.jpg"
+        },
+
+        {
+            "id": 3,
+            "title": "Guitar Fundamental",
+            "slug": "guitar-fundamentals",
+            "description": "Learn the basic fundamental of playing guitar with our comprehensive beginner's course",
+            "price": 99.99,
+            "instructor": "John Doe",
+            "isFeatured": true,
+            "image":"/Course/flute.jpg"
+        },
+
+        {
+            "id": 4,
+            "title": "Guitar Fundamental",
+            "slug": "guitar-fundamentals",
+            "description": "Learn the basic fundamental of playing guitar with our comprehensive beginner's course",
+            "price": 99.99,
+            "instructor": "John Doe",
+            "isFeatured": true,
+            "image":"/Course/piano.jpg"
+        },
+
+        {
+            "id": 5,
+            "title": "Guitar Fundamental",
+            "slug": "guitar-fundamentals",
+            "description": "Learn the basic fundamental of playing guitar with our comprehensive beginner's course",
+            "price": 99.99,
+            "instructor": "John Doe",
+            "isFeatured": true,
+            "image":"/Course/guitar.jpg"
+        },
+
+        {
+            "id": 6,
+            "title": "Guitar Fundamental",
+            "slug": "guitar-fundamentals",
+            "description": "Learn the basic fundamental of playing guitar with our comprehensive beginner's course",
+            "price": 99.99,
+            "instructor": "John Doe",
+            "isFeatured": true,
+            "image":"/Course/flute.jpg"
+        }
+    ]
+}
